@@ -1,0 +1,16 @@
+#botao-prever {
+    background-color: black;
+    border-color: black;
+    margin-top: 30px;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+#botao-prever:hover {
+    background-color: rgb(150, 150, 150);
+    border-color: rgb(150, 150, 150);
+    color: white;
+    opacity: 0.8;
+}
