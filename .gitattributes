@@ -1,2 +1,2 @@
-Modelo/script.ipynb filter=lfs diff=lfs merge=lfs -text
-Modelo/modelo_credito.pkl filter=lfs diff=lfs merge=lfs -text
+script.ipynb filter=lfs diff=lfs merge=lfs -text
+modelo_credito.pkl filter=lfs diff=lfs merge=lfs -text
